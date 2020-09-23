@@ -1,0 +1,52 @@
+HTTrack3.49-2 launched on Mon, 21 Sep 2020 12:54:01 at http://innovationplans.com/idesign/avo2/avo-dark/index5.html
+(httrack http://innovationplans.com/idesign/avo2/avo-dark/index5.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:12:27	Warning: 	Moved Permanently for innovationplans.com/idesign/avo2/avo-dark/Trident/
+13:12:27	Warning: 	Redirected link is identical because of 'URL Hack' option: innovationplans.com/idesign/avo2/avo-dark/Trident/ and https://innovationplans.com/idesign/avo2/avo-dark/Trident/
+13:12:27	Warning: 	File has moved from innovationplans.com/idesign/avo2/avo-dark/Trident/ to https://innovationplans.com/idesign/avo2/avo-dark/Trident/
+13:12:27	Warning: 	Moved Permanently for innovationplans.com/idesign/avo2/avo-dark/Edge/
+13:12:27	Warning: 	Redirected link is identical because of 'URL Hack' option: innovationplans.com/idesign/avo2/avo-dark/Edge/ and https://innovationplans.com/idesign/avo2/avo-dark/Edge/
+13:12:27	Warning: 	File has moved from innovationplans.com/idesign/avo2/avo-dark/Edge/ to https://innovationplans.com/idesign/avo2/avo-dark/Edge/
+13:12:27	Warning: 	Moved Permanently for innovationplans.com/idesign/avo2/avo-dark/Gecko/
+13:12:27	Warning: 	Redirected link is identical because of 'URL Hack' option: innovationplans.com/idesign/avo2/avo-dark/Gecko/ and https://innovationplans.com/idesign/avo2/avo-dark/Gecko/
+13:12:27	Warning: 	File has moved from innovationplans.com/idesign/avo2/avo-dark/Gecko/ to https://innovationplans.com/idesign/avo2/avo-dark/Gecko/
+13:12:27	Warning: 	Moved Permanently for innovationplans.com/idesign/avo2/avo-dark/Firefox/
+13:12:27	Warning: 	Redirected link is identical because of 'URL Hack' option: innovationplans.com/idesign/avo2/avo-dark/Firefox/ and https://innovationplans.com/idesign/avo2/avo-dark/Firefox/
+13:12:27	Warning: 	File has moved from innovationplans.com/idesign/avo2/avo-dark/Firefox/ to https://innovationplans.com/idesign/avo2/avo-dark/Firefox/
+13:12:28	Warning: 	Moved Permanently for innovationplans.com/idesign/avo2/avo-dark/Version/
+13:12:28	Warning: 	Redirected link is identical because of 'URL Hack' option: innovationplans.com/idesign/avo2/avo-dark/Version/ and https://innovationplans.com/idesign/avo2/avo-dark/Version/
+13:12:28	Warning: 	File has moved from innovationplans.com/idesign/avo2/avo-dark/Version/ to https://innovationplans.com/idesign/avo2/avo-dark/Version/
+13:12:28	Warning: 	Moved Permanently for innovationplans.com/idesign/avo2/avo-dark/version/
+13:12:28	Warning: 	Redirected link is identical because of 'URL Hack' option: innovationplans.com/idesign/avo2/avo-dark/version/ and https://innovationplans.com/idesign/avo2/avo-dark/version/
+13:12:28	Warning: 	File has moved from innovationplans.com/idesign/avo2/avo-dark/version/ to https://innovationplans.com/idesign/avo2/avo-dark/version/
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/ionicons.eot?v=2.0.0
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/ionicons.ttf?v=2.0.0
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/ionicons.woff?v=2.0.0
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/Pe-icon-7-stroke.eot?d7yf1v
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/Pe-icon-7-stroke.eot?
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/Pe-icon-7-stroke.woff?d7yf1v
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-brands-400.eot
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-brands-400.eot?
+13:12:28	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-brands-400.woff2
+13:12:28	Warning: 	Retry after error -2 (Receive Time Out) at link innovationplans.com/idesign/avo2/avo-dark/fonts/fa-brands-400.woff (from innovationplans.com/idesign/avo2/avo-dark/css/plugins/fontawesome-all.min.css)
+13:13:00	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-brands-400.ttf
+13:13:00	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-regular-400.eot
+13:13:00	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-regular-400.eot?
+13:13:00	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-regular-400.woff2
+13:13:00	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-regular-400.woff
+13:13:00	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-regular-400.ttf
+13:13:01	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-solid-900.eot
+13:13:01	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-solid-900.eot?
+13:13:01	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-solid-900.woff2
+13:13:01	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-solid-900.woff
+13:13:01	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-solid-900.ttf
+13:13:31	Warning: 	File not parsed, looks like binary: innovationplans.com/idesign/avo2/avo-dark/fonts/fa-brands-400.woff
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 30 seconds : 148 links scanned, 140 files written (11343283 bytes overall) [11479094 bytes received at 9811 bytes/sec], 2.8 requests per connection
+(No errors, 41 warnings, 0 messages)
